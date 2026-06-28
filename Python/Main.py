@@ -9,7 +9,7 @@ datos = {
 
 # Abrimos (o creamos) el archivo "datos.json" en modo escritura ("w").
 # encoding="utf-8" permite guardar correctamente caracteres como ñ, á, é, etc.
-with open("JSON/Python/datos.json", "w", encoding="utf-8") as archivo:
+with open("Python/datos.json", "w", encoding="utf-8") as archivo:
 
     # Convertimos el diccionario de Python a formato JSON y lo guardamos en el archivo.
     # indent=4 añade una indentación de 4 espacios para que el JSON sea más legible.

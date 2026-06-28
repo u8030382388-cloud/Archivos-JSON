@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+
+# Java / Maven
+target/
+*.class
+
+# VS Code
+.vscode/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Entornos virtuales de Python
+venv/
+.venv/
+
+# Github
+.github/
+
+# Ejecutables C/C++
+programa
+*.exe
+*.out

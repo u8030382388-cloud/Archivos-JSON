@@ -14,4 +14,3 @@ with open("JSON/Python/datos.json", "w", encoding="utf-8") as archivo:
     # Convertimos el diccionario de Python a formato JSON y lo guardamos en el archivo.
     # indent=4 añade una indentación de 4 espacios para que el JSON sea más legible.
     json.dump(datos, archivo, indent=4)
-    

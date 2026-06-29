@@ -5,7 +5,7 @@
 JSON (**JavaScript Object Notation**) es un formato ligero para almacenar e intercambiar datos.
 
 Es muy utilizado en:
-
+---
 - APIs
 - Configuraciones de aplicaciones
 - Bases de datos
@@ -14,7 +14,7 @@ Es muy utilizado en:
 
 ### Introducción
 --- 
-- Este proyecto incluye y enseña los tipos de archivos/ficheros JSON en los que se guardan diferentes tipos de datos determinados en diferentes lenguajes de programación planteados y mayormente utilizados
+- Este proyecto muestra cómo trabajar con archivos JSON en diferentes lenguajes de programación, explicando cómo crear, leer y manipular datos almacenados en formato JSON
 ---
 
 ### Contenido
@@ -28,7 +28,7 @@ Es muy utilizado en:
 
 ### Licencia
 ---
-- Este proyecto se comparte con fines eductivos y de aprendizaje sobre programación e ingeniería de software
+- Este proyecto se comparte con fines educativos y de aprendizaje sobre programación e ingeniería de software
 ---
 
 ### Autor
@@ -40,5 +40,6 @@ Es muy utilizado en:
 - Python3
 - Node.js
 - JDK (Java Development Kit)
-- Compiladores GCC (Para C) G++ (Para C++)
+- GCC (Compilador para C) 
+- G++ (Compilador para C++)
  
